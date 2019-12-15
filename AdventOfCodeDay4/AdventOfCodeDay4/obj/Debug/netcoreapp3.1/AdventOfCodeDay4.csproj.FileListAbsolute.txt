@@ -1,0 +1,11 @@
+F:\StMarys2018\Year 12 Computing - Programming\AdventOfCodeDay4\AdventOfCodeDay4\bin\Debug\netcoreapp3.1\AdventOfCodeDay4.exe
+F:\StMarys2018\Year 12 Computing - Programming\AdventOfCodeDay4\AdventOfCodeDay4\bin\Debug\netcoreapp3.1\AdventOfCodeDay4.deps.json
+F:\StMarys2018\Year 12 Computing - Programming\AdventOfCodeDay4\AdventOfCodeDay4\bin\Debug\netcoreapp3.1\AdventOfCodeDay4.runtimeconfig.json
+F:\StMarys2018\Year 12 Computing - Programming\AdventOfCodeDay4\AdventOfCodeDay4\bin\Debug\netcoreapp3.1\AdventOfCodeDay4.runtimeconfig.dev.json
+F:\StMarys2018\Year 12 Computing - Programming\AdventOfCodeDay4\AdventOfCodeDay4\bin\Debug\netcoreapp3.1\AdventOfCodeDay4.dll
+F:\StMarys2018\Year 12 Computing - Programming\AdventOfCodeDay4\AdventOfCodeDay4\bin\Debug\netcoreapp3.1\AdventOfCodeDay4.pdb
+F:\StMarys2018\Year 12 Computing - Programming\AdventOfCodeDay4\AdventOfCodeDay4\obj\Debug\netcoreapp3.1\AdventOfCodeDay4.csprojAssemblyReference.cache
+F:\StMarys2018\Year 12 Computing - Programming\AdventOfCodeDay4\AdventOfCodeDay4\obj\Debug\netcoreapp3.1\AdventOfCodeDay4.AssemblyInfoInputs.cache
+F:\StMarys2018\Year 12 Computing - Programming\AdventOfCodeDay4\AdventOfCodeDay4\obj\Debug\netcoreapp3.1\AdventOfCodeDay4.AssemblyInfo.cs
+F:\StMarys2018\Year 12 Computing - Programming\AdventOfCodeDay4\AdventOfCodeDay4\obj\Debug\netcoreapp3.1\AdventOfCodeDay4.dll
+F:\StMarys2018\Year 12 Computing - Programming\AdventOfCodeDay4\AdventOfCodeDay4\obj\Debug\netcoreapp3.1\AdventOfCodeDay4.pdb
